@@ -76,3 +76,6 @@
 - [x] Implementirati PayrollDetails stranicu sa rezultatima obračuna
 - [x] Implementirati TaxRules stranicu sa konfiguracijom poreznih stopa
 - [x] Implementirati WageTypes stranicu sa vrstama primanja
+
+## Bug Fixes
+- [x] Popraviti 404 grešku na "page 2" linkovima
