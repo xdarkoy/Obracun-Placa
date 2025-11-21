@@ -66,3 +66,13 @@
 - [ ] Kreirati tehničku dokumentaciju
 - [ ] Pripremiti checkpoint za deployment
 - [ ] Finalna provjera i dostava korisniku
+
+## Dodatni zahtjevi - Kompletan UI
+- [x] Implementirati Dashboard stranicu sa pregledom svih kompanija
+- [x] Implementirati Tenants stranicu sa tabelom i CRUD operacijama
+- [x] Implementirati Employees stranicu sa tabelom i formama
+- [x] Implementirati Contracts stranicu sa detaljima ugovora
+- [x] Implementirati PayrollRuns stranicu sa listom obračuna
+- [x] Implementirati PayrollDetails stranicu sa rezultatima obračuna
+- [x] Implementirati TaxRules stranicu sa konfiguracijom poreznih stopa
+- [x] Implementirati WageTypes stranicu sa vrstama primanja
